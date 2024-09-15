@@ -1,3 +1,3 @@
 - [Read Me](README)
 - [Example Second Page](second-page)
-- [Git Credential Manager](Git Credential Manager)
+- [Git Credential Manager](Git-Credential-Manager)
