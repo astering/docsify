@@ -1,3 +1,4 @@
 - [Read Me](README)
-- [Example Second Page](second-page)
 - [Git Credential Manager](Git-Credential-Manager)
+- [B站直链](241012)
+- [git proxy](241013)
